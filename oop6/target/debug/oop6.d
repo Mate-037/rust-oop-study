@@ -1,1 +1,1 @@
-/home/seleste/student-oop/oop6/target/debug/oop6: /home/seleste/student-oop/oop6/src/main.rs
+/home/mate/rust-oop-study/oop6/target/debug/oop6: /home/mate/rust-oop-study/oop6/src/main.rs
